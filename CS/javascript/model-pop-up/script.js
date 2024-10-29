@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", () => {
-    // Get modal elements
-    const modal = document.getElementById("myModal");
+  
+    ementById("myModal");
     const openModalButton = document.getElementById("openModal");
     const closeModalButton = document.getElementById("closeModal");
 
