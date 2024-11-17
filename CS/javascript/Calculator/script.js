@@ -21,9 +21,10 @@
     |    .eval()                                       |
     |--------------------------------------------------|
 */
-
+let display = document.getElementById('display');
+    
 function calculate(){
-    try{
+    try{ 
         //
     }
     catch{
