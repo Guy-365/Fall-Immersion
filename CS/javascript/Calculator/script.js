@@ -23,7 +23,13 @@
 */
 let display = document.getElementById('display');
     
-function calculate(){
+
+function appendNumber(){
+    
+}
+
+    
+function appendOperator(){
     try{ 
         //
     }
@@ -31,3 +37,5 @@ function calculate(){
 
     }
 }
+
+
