@@ -21,7 +21,7 @@
     |    .eval()                                       |
     |--------------------------------------------------|
 */
-let display = document.getElementById('display');
+ const screen = document.getElementById('display');
     
 
 function appendNumber(){
