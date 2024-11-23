@@ -1,0 +1,16 @@
+
+#display{
+width: 12.7em;
+height: 2em;
+border-radius: 10%;
+
+}
+.Buttons{
+font-size: 3em;
+}
+.Calculator{
+    box-sizing: border-box;
+    background-color: rgb(28, 137, 188);
+    width: 15%;
+    border-radius: 12px;
+}
